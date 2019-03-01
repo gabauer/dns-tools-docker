@@ -1,4 +1,4 @@
-FROM quay.io/pires/docker-jre:8u191
+FROM alpine:3.9
 LABEL maintainer="gabriel.bauer@commerce-experts.com"
 LABEL author="gabriel.bauer@commerce-experts.com"
 
